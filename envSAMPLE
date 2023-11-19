@@ -1,0 +1,6 @@
+DB_Host= 
+DB_Port= 
+DB_Username=
+DB_Password=
+DB_Database=
+API_KEY=8rgwrj3jbjbj4jbef55jhb5 //this can be any key. ALL YOU HAVE TO DO IS TO PASTE THIS KEY TO Headers section in the Postman to run all the apis.
